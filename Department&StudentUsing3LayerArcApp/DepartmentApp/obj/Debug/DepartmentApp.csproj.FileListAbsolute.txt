@@ -1,0 +1,35 @@
+D:\Moshiur_OOP_49\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+D:\Moshiur_OOP_49\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csprojResolveAssemblyReference.cache
+D:\Moshiur_OOP_49\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.DepartmentUI.resources
+D:\Moshiur_OOP_49\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.Properties.Resources.resources
+D:\Moshiur_OOP_49\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csproj.GenerateResource.Cache
+D:\Moshiur_OOP_49\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe
+D:\Moshiur_OOP_49\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.pdb
+D:\Moshiur_OOP_49\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+D:\Moshiur_OOP_49\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.pdb
+G:\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+G:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+G:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.pdb
+G:\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe
+G:\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.pdb
+G:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csprojResolveAssemblyReference.cache
+G:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.DepartmentUI.resources
+G:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.Properties.Resources.resources
+G:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csproj.GenerateResource.Cache
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.pdb
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.pdb
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csprojResolveAssemblyReference.cache
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.DepartmentUI.resources
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.Properties.Resources.resources
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.StudentUI.resources
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csproj.GenerateResource.Cache
+D:\BASIS\49_BATCH\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.MainUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\New folder\DB Exam\13-10-2014\13-10-2014\source\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\New folder\DB Exam\13-10-2014\13-10-2014\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\New folder\DB Exam\13-10-2014\13-10-2014\source\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\Department&StudentUsing3LayerArcApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\Department&StudentUsing3LayerArcApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\Department&StudentUsing3LayerArcApp\DepartmentApp\obj\Debug\DepartmentApp.pdb

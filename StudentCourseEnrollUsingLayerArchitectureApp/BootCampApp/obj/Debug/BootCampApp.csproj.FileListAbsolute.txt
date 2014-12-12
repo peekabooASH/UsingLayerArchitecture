@@ -1,0 +1,40 @@
+c:\users\naser101289\documents\visual studio 2013\Projects\BootCampApp\BootCampApp\bin\Debug\BootCampApp.exe.config
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\bin\Debug\BootCampApp.exe.config
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\bin\Debug\BootCampApp.exe
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\bin\Debug\BootCampApp.pdb
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\obj\Debug\BootCampApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\obj\Debug\BootCampApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\obj\Debug\BootCampApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\obj\Debug\BootCampApp.exe
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\obj\Debug\BootCampApp.pdb
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\obj\Debug\BootCampApp.UserInterface.CourseEnrollmentUI.resources
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\obj\Debug\BootCampApp.UserInterface.ResultEntryUI.resources
+C:\Users\PC21\Desktop\GitBoot\BootCamp\BootCampApp\BootCampApp\obj\Debug\BootCampApp.UserInterface.ResultSheetUI.resources
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\bin\Debug\BootCampApp.exe.config
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\obj\Debug\BootCampApp.exe
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\obj\Debug\BootCampApp.pdb
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\obj\Debug\BootCampApp.csprojResolveAssemblyReference.cache
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\obj\Debug\BootCampApp.Properties.Resources.resources
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\obj\Debug\BootCampApp.UserInterface.CourseEnrollmentUI.resources
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\obj\Debug\BootCampApp.UserInterface.ResultEntryUI.resources
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\obj\Debug\BootCampApp.UserInterface.ResultSheetUI.resources
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\obj\Debug\BootCampApp.csproj.GenerateResource.Cache
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\bin\Debug\BootCampApp.exe
+C:\Users\Nadim\Desktop\Naser\BootCampApp\BootCampApp\bin\Debug\BootCampApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\bin\Debug\BootCampApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\obj\Debug\BootCampApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\obj\Debug\BootCampApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\bin\Debug\BootCampApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\bin\Debug\BootCampApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\obj\Debug\BootCampApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\obj\Debug\BootCampApp.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\obj\Debug\BootCampApp.UserInterface.CourseEnrollmentUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\obj\Debug\BootCampApp.UserInterface.ResultEntryUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\obj\Debug\BootCampApp.UserInterface.ResultSheetUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder\DB Exam\BootCampApp\BootCampApp\obj\Debug\BootCampApp.csproj.GenerateResource.Cache
+C:\Users\Nadim\Desktop\Basis ALL project\UsingLayerArchitecture\StudentCourseEnrollUsingLayerArchitectureApp\BootCampApp\bin\Debug\BootCampApp.exe.config
+C:\Users\Nadim\Desktop\Basis ALL project\UsingLayerArchitecture\StudentCourseEnrollUsingLayerArchitectureApp\BootCampApp\obj\Debug\BootCampApp.exe
+C:\Users\Nadim\Desktop\Basis ALL project\UsingLayerArchitecture\StudentCourseEnrollUsingLayerArchitectureApp\BootCampApp\obj\Debug\BootCampApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\StudentCourseEnrollUsingLayerArchitectureApp\BootCampApp\bin\Debug\BootCampApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\StudentCourseEnrollUsingLayerArchitectureApp\BootCampApp\obj\Debug\BootCampApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\StudentCourseEnrollUsingLayerArchitectureApp\BootCampApp\obj\Debug\BootCampApp.pdb

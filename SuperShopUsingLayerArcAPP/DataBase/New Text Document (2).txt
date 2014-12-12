@@ -1,0 +1,22 @@
+<add name="MyDBConnection" connectionString="Server=BITM-401-PC15\SQLEXPRESS; UID=xxxx; PWD=xxxx; Database=SuperShop;"/>
+ <add name="con" providerName="System.Data.sqlclient" connectionString="" />
+
+
+C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS\MSSQL\Backup
+
+create database SuperShop
+use SuperShop
+
+create table ShopTable
+(
+ShopName varchar(50) primary key,
+ShopAddress varchar(50),
+)
+
+
+create table Product
+(
+ProductName varchar(50) ,
+ProductQuantity int,
+ShopName varchar(50) foreign key  references ShopTable(ShopName)
+)

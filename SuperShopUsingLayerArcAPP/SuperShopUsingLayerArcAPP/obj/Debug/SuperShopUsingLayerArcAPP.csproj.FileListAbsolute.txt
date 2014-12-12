@@ -1,0 +1,33 @@
+c:\users\nadim\documents\visual studio 2013\Projects\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.exe.config
+c:\users\nadim\documents\visual studio 2013\Projects\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.Properties.Resources.resources
+c:\users\nadim\documents\visual studio 2013\Projects\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.csproj.GenerateResource.Cache
+c:\users\nadim\documents\visual studio 2013\Projects\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.exe
+c:\users\nadim\documents\visual studio 2013\Projects\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.exe
+c:\users\nadim\documents\visual studio 2013\Projects\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.pdb
+J:\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.exe.config
+J:\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.exe
+J:\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.pdb
+C:\Users\PC21\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.exe
+C:\Users\PC21\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.pdb
+C:\Users\PC21\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.exe
+C:\Users\PC21\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.pdb
+C:\Users\PC21\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.SuperShopUI.resources
+C:\Users\PC21\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.Properties.Resources.resources
+C:\Users\PC21\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.exe.config
+C:\Users\Nadim\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.exe.config
+C:\Users\Nadim\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.exe
+C:\Users\Nadim\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.pdb
+C:\Users\Nadim\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.exe
+C:\Users\Nadim\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.pdb
+C:\Users\Nadim\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.csprojResolveAssemblyReference.cache
+C:\Users\Nadim\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.SuperShopUI.resources
+C:\Users\Nadim\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.Properties.Resources.resources
+C:\Users\Nadim\Desktop\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.csproj.GenerateResource.Cache
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.SuperShopUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\bin\Debug\SuperShopUsingLayerArcAPP.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\SuperShopUsingLayerArcAPP\SuperShopUsingLayerArcAPP\obj\Debug\SuperShopUsingLayerArcAPP.pdb

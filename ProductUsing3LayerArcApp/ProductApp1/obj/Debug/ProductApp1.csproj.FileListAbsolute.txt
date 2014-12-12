@@ -1,0 +1,20 @@
+C:\Users\PC21\Desktop\14 October Practice\ProductApp1\ProductApp1\bin\Debug\ProductApp1.exe.config
+C:\Users\PC21\Desktop\14 October Practice\ProductApp1\ProductApp1\obj\Debug\ProductApp1.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\14 October Practice\ProductApp1\ProductApp1\obj\Debug\ProductApp1.ProductUI.resources
+C:\Users\PC21\Desktop\14 October Practice\ProductApp1\ProductApp1\obj\Debug\ProductApp1.Properties.Resources.resources
+C:\Users\PC21\Desktop\14 October Practice\ProductApp1\ProductApp1\obj\Debug\ProductApp1.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\14 October Practice\ProductApp1\ProductApp1\bin\Debug\ProductApp1.exe
+C:\Users\PC21\Desktop\14 October Practice\ProductApp1\ProductApp1\bin\Debug\ProductApp1.pdb
+C:\Users\PC21\Desktop\14 October Practice\ProductApp1\ProductApp1\obj\Debug\ProductApp1.exe
+C:\Users\PC21\Desktop\14 October Practice\ProductApp1\ProductApp1\obj\Debug\ProductApp1.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp1\ProductApp1\bin\Debug\ProductApp1.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp1\ProductApp1\obj\Debug\ProductApp1.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp1\ProductApp1\obj\Debug\ProductApp1.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp1\ProductApp1\bin\Debug\ProductApp1.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp1\ProductApp1\bin\Debug\ProductApp1.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp1\ProductApp1\obj\Debug\ProductApp1.ProductUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp1\ProductApp1\obj\Debug\ProductApp1.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp1\ProductApp1\obj\Debug\ProductApp1.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\ProductUsing3LayerArcApp\ProductApp1\bin\Debug\ProductApp1.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\ProductUsing3LayerArcApp\ProductApp1\obj\Debug\ProductApp1.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UsingLayerArchitecture\ProductUsing3LayerArcApp\ProductApp1\obj\Debug\ProductApp1.pdb
